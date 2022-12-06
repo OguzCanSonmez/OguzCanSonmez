@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **oguzcan.sonmez@gmail.com**
 
-- 📙 Check out my [resume](https://oguzcansonmez.com/cv/oguz-can-sonmez-cv.pdf)
+- 📙 Check out my [resume](https://oguzcansonmez.com/cv/oguz-can-sonmez-cv-eng.pdf)
 <br>
 <h3 align="left">Technologies</h3>
 <p align="left">
